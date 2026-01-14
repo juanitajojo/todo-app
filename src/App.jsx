@@ -146,7 +146,7 @@ function App() {
                 <button
                   onClick={() => toggleLike(todo.id)}
                   style={{ border: 'none', outline: 'none', backgroundColor: 'black', color: 'white' }}>
-                  {todo.done ? "DONE ✅" : "MARK AS DONE"}
+                  {todo.done ? "Completed✅" : "Complete"}
                 </button> <button
                   onClick={() => deleteTodo(todo.id)}
                 >
