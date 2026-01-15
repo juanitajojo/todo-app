@@ -78,17 +78,17 @@
 
   p {
     color: light-dark(#000000, #ffffff);
-    background-color: light-dark (#ffffff, #121212);
+    background-color: light-dark (#8900a5b6, #25010c);
   }
 
   h1 {
     color: light-dark(#000000, #ffffff);
-    background-color: light-dark (#ffffff, #121212);
+    background-color: light-dark (#8900a5b6, #25010c);
   }
 
   li {
     color: light-dark(#000000, #ffffff);
-    background-color: light-dark (#ffffff, #121212);
+    background-color: light-dark (#8900a5b6, #25010c);
 
   }
 
