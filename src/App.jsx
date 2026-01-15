@@ -87,7 +87,7 @@ function App() {
   }
   return (
     <>
-      <div className="head">
+      <div>
         <h1>
           TO-DO LIST
         </h1>
